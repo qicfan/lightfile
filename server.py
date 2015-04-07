@@ -154,4 +154,3 @@ if __name__ == "__main__":
     server = LightfileServer()
     server.listen(8000)
     tornado.ioloop.IOLoop.instance().start()
-
