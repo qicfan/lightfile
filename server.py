@@ -10,7 +10,6 @@ __author__ = 'Dean'
 import logging
 import tornado.ioloop
 import tornado.tcpserver
-import tempfile
 import struct
 
 def init_logging():
